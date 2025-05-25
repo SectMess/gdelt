@@ -7,3 +7,4 @@ pandas
 plotly
 openai
 aiohttp
+lxml[html_clean]
