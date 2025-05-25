@@ -1,0 +1,9 @@
+newspaper3k
+beautifulsoup4 
+nltk
+textstat
+streamlit
+pandas
+plotly
+openai
+aiohttp
